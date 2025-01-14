@@ -37,7 +37,7 @@ pnpm i
 
 # start the dev server
 # then go to the url printed on the screen
-pnpm start
+pnpm start &
 
 
 # build optimized assets
